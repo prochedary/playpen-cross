@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1506021711 source:c:\codeblocks\projekty\zkouska\main.cpp
+	<iostream>
+	"playpen.h"
+
+1088079442 c:\codeblocks\knihovny\fgw_headers\playpen.h
+	"fgw_text.h"
+	<bitset>
+	<iostream>
+	<string>
+
+1126273492 c:\codeblocks\knihovny\fgw_headers\fgw_text.h
+	<cctype>
+	<climits>
+	<exception>
+	<fstream>
+	<iostream>
+	<string>
+
