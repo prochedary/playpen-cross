@@ -18,8 +18,6 @@ int main()
     papir.plot(-1,-1,0);
     papir.plot(-2,-2,0);
     papir.plot(-3,-3,0);
-    papir.setplotmode(direct);
-    papir.scale(20);
     papir.plot(-3,3,0);
     papir.plot(-2,2,0);
     papir.plot(-1,1,0);
@@ -27,7 +25,6 @@ int main()
     papir.plot(1,-1,0);
     papir.plot(2,-2,0);
     papir.plot(3,-3,0);
-        papir.setplotmode(additive);
     papir.display();
     cout << "Stinkni ENTER" << endl;
     cin.get();
